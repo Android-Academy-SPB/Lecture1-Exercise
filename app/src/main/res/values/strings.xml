@@ -3,4 +3,6 @@
     <string name="message_hint">Type your message here…</string>
     <string name="activity">Activity</string>
     <string name="email">Email</string>
+    <string name="email_subject">The message I wrote on my app</string>
+    <string name="email_sending_error">No email clients were found on the device</string>
 </resources>
