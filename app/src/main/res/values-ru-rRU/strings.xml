@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Упражнение1</string>
+    <string name="message_hint">Введите сообщение</string>
+    <string name="activity">Activity</string>
+    <string name="email">Почта</string>
+    <string name="email_subject">"Сообщение отправлено из приложения "</string>
+    <string name="email_sending_error">На устройстве не установлен почтовый клиент</string>
+</resources>
